@@ -1,0 +1,13 @@
+Package: apprtest
+Title: Comprehensive t test and ANOVA with basic data set information 
+Version: 0.0.0.9000
+Authors@R: 
+    person("Yiqin", "He", , "yhe73@u.rochester.edu", role = c("aut", "cre"))
+Description: A system for giving appropriate basic data information, doing appropriate comprehensive t.test or ANOVA based on the assumptions. You should provide the samples to get the basic graphics and numerical information, and also choosing the appropriate test.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Imports: car, pastecs and PMCMRplus
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+
